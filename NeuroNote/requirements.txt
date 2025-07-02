@@ -1,0 +1,8 @@
+Flask
+transformers
+spacy
+speech_recognition
+numpy
+pandas
+scikit-learn
+matplotlib
